@@ -5,4 +5,4 @@
 # Modify the sentence between the quotation marks
 # to something else!
 
-print("Team America! Coming to Save the World Fuck Yeah")
+print("Team America! Coming to Save the World forever")
